@@ -27,3 +27,19 @@
     background-position: 200% center;
   }
 }
+.Cham{
+  z-index: 1;
+
+}
+.anh{
+  width: 10%;
+  height: 17%;
+}
+.nhac{
+  z-index: 3;
+ 
+}
+#pinkboard{
+  z-index: 0;
+  
+}
